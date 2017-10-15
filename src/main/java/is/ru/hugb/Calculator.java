@@ -1,6 +1,6 @@
 package	is.ru.hugb;
 
-public	class	HelloWorld	{
+public	class	Calculator	{
 	public	static	String	today()	{
 					DateTime	today	=	new	DateTime();
 					return	today.dayOfWeek().getAsText();
